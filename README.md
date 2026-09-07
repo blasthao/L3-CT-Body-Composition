@@ -2,6 +2,8 @@
 
 An end-to-end, open-source software suite for opportunistic body composition analysis and metabolic risk estimation using routine non-contrast abdominal computed tomography (NCCT) scans. The pipeline integrates automated vertebral localization, 4-class multi-tissue pixel-level segmentation, standardized metric quantification, DICOM 3.0-compliant PACS workflow integration, and an explainable AI (XAI) dashboard for downstream type 2 diabetes risk stratification powered by SHAP.
 
+Pretrained weights and packaged standalone software can be downloaded from ScienceDB via DOI: 10.57760/sciencedb.xxxxx
+
 ---
 
 ## 🌟 Key Features
